@@ -3,7 +3,7 @@
   "displayName": "vscode-styled-components (fork)",
   "description": "Syntax highlighting for styled-components (fork)",
   "version": "0.0.30",
-  "publisher": "vasek",
+  "publisher": "vasek-sc",
   "icon": "logo.png",
   "license": "MIT",
   "repository": {
