@@ -1,6 +1,8 @@
-# vscode-styled-components
+# vscode-styled-components (fork)
 
 Syntax highlighting and IntelliSense for [styled-components](https://github.com/styled-components/styled-components).
+
+This is a forked version with experimental support of new `withConfig` option.
 
 ![Syntax highlighting in action](demo.png)
 
@@ -16,7 +18,7 @@ ext install vscode-styled-components
 
 It should be the top result.
 
-[[Source](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)]
+[[Source](https://marketplace.visualstudio.com/items?itemName=vasek.vscode-styled-components)]
 
 ## Features
 
