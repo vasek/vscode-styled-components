@@ -18,7 +18,7 @@ ext install vscode-styled-components
 
 It should be the top result.
 
-[[Source](https://marketplace.visualstudio.com/items?itemName=vasek.vscode-styled-components)]
+[[Source](https://marketplace.visualstudio.com/items?itemName=vasek-sc.vscode-styled-components)]
 
 ## Features
 
